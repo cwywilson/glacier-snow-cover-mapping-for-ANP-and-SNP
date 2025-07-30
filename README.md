@@ -46,11 +46,11 @@ It builds upon the original work of Rainey Aberle by introducing:
 
 ## 📊 Example Output
 
-- Time series of maximum ablation-season snowline altitude (SLA) for 2016–2023
+- Time series of maximum ablation-season snowline altitude (SLA) for 2013–2024
 - Annual minimum SCR date used to represent peak ablation
 - Elevation-binned SLA maps with ArcticDEM
 
-![Example SLA](figures\3-SLAmax.png")
+![Maximum Ablation-Season SLA](figures/3-SLAmax.png)
 
 ---
 
